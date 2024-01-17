@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/Nh\u1EB7t Th\xF9ng no manager.unity"
+    guid: 65ce3a0a6f2da584b8554089fa5ba43b
+  - enabled: 1
+    path: Assets/Scenes/SortingStuff.unity
+    guid: 382e1d62f0f27bd4bb8d867b236f5d5c
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
